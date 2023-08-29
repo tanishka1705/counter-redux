@@ -10,7 +10,7 @@ This is a simple Counter Application developed using React and Redux. The purpos
 ## Usage
 1. Start the development server:
    -npm start
-2. The application contains 3 buttons :
+3. The application contains 3 buttons :
    - Click the "Increment" button to increment the counter
    - Click the "Decrement" button to decrement the counter
    - Click the "Reset" button to reset the counter
